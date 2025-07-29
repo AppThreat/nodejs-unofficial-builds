@@ -1,3 +1,9 @@
+Forked from [Node.js unofficial-builds project](https://github.com/nodejs/unofficial-builds), for organization-internal use.
+
+If you can make use of our binaries, feel free to do so (they're in the `dists` folder), but we do not plan on external support, nor on adding any builds that we do not need ourselves!
+
+Original README below:
+
 # Node.js unofficial-builds project
 
 **<https://unofficial-builds.nodejs.org/>**
