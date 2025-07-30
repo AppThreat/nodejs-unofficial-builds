@@ -2,6 +2,12 @@ Forked from [Node.js unofficial-builds project](https://github.com/nodejs/unoffi
 
 If you can make use of our binaries, feel free to do so (they're in the `dists` folder), but we do not plan on external support, nor on adding any builds that we do not need ourselves!
 
+Current binaries:
+| Node.js | Architecture | Build image | musl  | Runtime image  |
+| ------- | ------------ | ----------- | ----- | -------------- |
+| v24.3.0 | arm64        | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
+| v24.3.0 | x64          | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
+
 Original README below:
 
 # Node.js unofficial-builds project
