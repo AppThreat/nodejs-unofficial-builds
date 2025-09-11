@@ -5,6 +5,7 @@ If you can make use of our binaries, feel free to do so (they're in the `dists` 
 Current binaries:
 | Node.js | Architecture | Build image | musl  | Runtime image  |
 | ------- | ------------ | ----------- | ----- | -------------- |
+| v24.8.0 | arm64,x64    | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
 | v24.7.0 | arm64,x64    | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
 | v24.6.0 | arm64,x64    | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
 | v24.5.0 | arm64,x64    | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
