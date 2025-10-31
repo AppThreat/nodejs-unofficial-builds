@@ -1,5 +1,6 @@
 version	date	files	npm	v8	uv	zlib	openssl	modules	lts	security
-v25.0.0	2025-10-16	linux-arm64-musl,linux-x64-musl	11.6.2	14.1.146.11	1.51.0	1.3.1	3.5.4	141	-	-
+v25.0.0	2025-10-30	linux-arm64-musl,linux-x64-musl	11.6.2	14.1.146.11	1.51.0	1.3.1	3.5.4	141	-	-
+v24.11.0	2025-10-31	linux-arm64-musl,linux-x64-musl	11.6.1	13.6.233.10	1.51.0	1.3.1	3.5.4	137	Krypton	-
 v24.10.0	2025-10-12	linux-arm64-musl,linux-x64-musl	11.6.1	13.6.233.10	1.51.0	1.3.1	3.5.4	137	-	-
 v24.9.0	2025-10-06	linux-arm64-musl,linux-x64-musl	11.6.0	13.6.233.10	1.51.0	1.3.1	3.5.3	137	-	-
 v24.8.0	2025-09-11	linux-arm64-musl,linux-x64-musl	11.6.0	13.6.233.10	1.51.0	1.3.1	3.5.2	137	-	-
