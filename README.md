@@ -6,6 +6,7 @@ Current binaries:
 | Node.js  | Architecture | Build image | musl  | Runtime image  |
 | -------  | ------------ | ----------- | ----- | -------------- |
 | v25.0.0  | arm64,x64    | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
+| v24.11.1 | arm64,x64    | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
 | v24.11.0 | arm64,x64    | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
 | v24.10.0 | arm64,x64    | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
 | v24.9.0  | arm64,x64    | alpine:3.17 | 1.2.3 | >= alpine:3.16 |
