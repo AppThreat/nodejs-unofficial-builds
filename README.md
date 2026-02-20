@@ -1,5 +1,7 @@
 Forked from [Node.js unofficial-builds project](https://github.com/nodejs/unofficial-builds), for organization-internal use.
 
+**Because the original repository now includes recipes for musl-based binaries for both x64 & arm64 architectures, this fork will no longer be maintained!**
+
 If you can make use of our binaries, feel free to do so (they're in the `dists` folder), but we do not plan on external support, nor on adding any builds that we do not need ourselves!
 
 Current binaries:
